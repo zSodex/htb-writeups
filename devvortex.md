@@ -1,10 +1,17 @@
 # Hack The Box - DevVortex Write-up (Español)
 
+
+
 ## ⚙️ Información General  
 
 | Nombre    | IP            | Dificultad | SO    |
 |-----------|---------------|------------|-------|
 | DevVortex | 10.10.11.242  | Facil      | Linux |  
+
+
+![image](https://github.com/user-attachments/assets/430b1934-3770-480c-b6d0-ef9dac98a6cf)
+
+
 
 ---
 
